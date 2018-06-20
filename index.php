@@ -16,7 +16,7 @@
 
   <body>
 
-    <p align="center"><img src="/img/Logo-20141031-131417.gif"
+    <p align="center"><img src="Logo-20141031-131417.gif"
     width="800" height="400" border="0" alt="Agent of M.O.U.S.E.  v0.03
     (agentofmouse.com)" title="Agent of M.O.U.S.E.  v0.03
     (agentofmouse.com)" /></p>
