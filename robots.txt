@@ -1,0 +1,12 @@
+########################################################################
+#            Agent of M.O.U.S.E.  v0.03  (agentofmouse.com)            #
+#                    all rights reserved, 2014-2017                    #
+#   made by FRN2000@VOSC (frn2000.com, vintageos.org, vintageos.com)   #
+#                                                                      #
+# 1.  File `robots.txt` to block certain robots/spiders from accessing #
+#     files and subdirectories; instructions and information on how to #
+#     code this file found at http://www.robotstxt.org/robotstxt.html  #
+########################################################################
+
+User-agent: *
+Disallow:

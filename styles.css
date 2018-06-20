@@ -1,0 +1,100 @@
+/* --------------------------------------------------------------------+
+|            Agent of M.O.U.S.E.  v0.03  (agentofmouse.com)            |
+|                    all rights reserved, 2014-2017                    |
+|   made by FRN2000@VOSC (frn2000.com, vintageos.org, vintageos.com)   |
++-------------------------------------------------------------------- */
+
+body
+  {
+    background-color: #000000;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, Sans-Serif, Monospace;
+    font-size: 12px;
+    line-height: 16px;
+    text-align: left;
+  }
+
+h1
+  {
+    font-size: 18px;
+    line-height: 22px;
+  }
+
+h2
+  {
+    font-size: 16px;
+    line-height: 20px;
+  }
+
+h3
+  {
+    font-size: 14px;
+    line-height: 18px;
+  }
+
+hr
+  {
+    color: #FFFFFF;
+    background-color: #FFFFFF;
+    border: 0px;
+    height: 1px;
+  }
+
+p tt li
+  {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+a:link
+  {
+    color: #FFFFFF;
+    text-decoration: underline;
+  }
+
+a:visited
+  {
+    color: #F5F5F5;
+    text-decoration: underline;
+  }
+
+a:hover
+  {
+    color: #FF0000;
+    text-decoration: none;
+  }
+
+.monospace
+  {
+    font-family: "Source Code Pro", "Fira Mono", "Lucida Console",
+      Monaco, Monospace;
+  }
+   
+.regTXT
+  {
+    font-size: 12px;
+    line-height: 16px;
+  }
+
+.smTXT
+  {
+    font-size: 10px;
+    line-height: 13px;
+  }
+
+.boxes
+  {
+    font-size: 12px;
+    line-height: 14px;
+    border: 1pt solid #C0C0C0;
+  }
+
+.buttons
+  {
+    background-color: #F7F7F7;
+    font-size: 12px;
+    line-height: 14px;
+    border: 1pt solid #C0C0C0;
+  }
+
+/* ------------------------------ EOF ------------------------------- */
