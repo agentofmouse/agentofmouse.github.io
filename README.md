@@ -1,10 +1,17 @@
-# agentofmouse.github.io
-## Agent of M.O.U.S.E. v0.04 (agentofmouse.com), copyright 2014-2018
+# Agent of M.O.U.S.E.
 
-Evil Doctor Kat has stolen all the world cheese!
+![Agent of M.O.U.S.E. Logo](Logo-20141031-131417.gif)
 
-Agent M, we need you to rescue the cheese before he does something to it.
+```
+  **Agent M**,
+  
+  Evil Doctor Kat has stolen all the world cheese!
 
-You're our only hope.
+  We need you to rescue the cheese before he does something to it.
 
-The future of mousekind depends on you.
+  You're our only hope.
+
+  The future of mousekind depends on you.
+```
+
+Agent of M.O.U.S.E. v0.04 (agentofmouse.com), copyright 2014-2018
